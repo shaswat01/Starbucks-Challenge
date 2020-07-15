@@ -1,5 +1,5 @@
 # Starbucks Challenge Blogpost
-You can read the article from this [link](link).
+You can read the article from this [link](https://medium.com/@shaswat.phy/starbucks-offer-data-analysis-6fc9ca0f7086).
 
 
 ---
